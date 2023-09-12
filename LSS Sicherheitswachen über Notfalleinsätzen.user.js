@@ -3,7 +3,7 @@
 // @namespace    www.leitstellenspiel.de
 // @version      1.0
 // @description  Verschiebt die Sicherheitswachen über die Notffalleinsätze
-// @author       You
+// @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
 // @grant        none
 // ==/UserScript==
